@@ -6,5 +6,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.goo.developerid=ChaosFirZen \
     ro.goo.rom=MooDeDICS \
-    ro.goo.version=1
+    ro.goo.version=2
 
